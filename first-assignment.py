@@ -3,7 +3,7 @@
 Spyder Editor
 This is a temporary script file.
 """
-print("please give me 100")
+print("please give me 100, please")
 
 
 
